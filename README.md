@@ -2,6 +2,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=454270186&layout=compact&hide=Makefile,html,roff)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="right"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/454270186/count.svg" />
+</p>
+
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 
 <!-- ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
