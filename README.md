@@ -18,3 +18,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
  -->
+[![Erfei Yu profile views](https://u8views.com/api/v1/github/profiles/105307186/views/day-week-month-total-count.svg)](https://u8views.com/github/454270186)
